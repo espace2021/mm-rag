@@ -9,6 +9,7 @@ dependencies = [
     "ipykernel>=7.2.0",
     "langchain>=1.2.15",
     "langchain-google-genai>=4.2.2",
+    "langchain-ollama>=1.1.0",
     "open-clip-torch>=3.3.0",
     "pillow>=12.2.0",
     "python-dotenv>=1.2.2",
